@@ -4,6 +4,8 @@
 
 [toc]로 목차 만들면 됨
 
+Typora에선 목차 되는데 깃헙에선 적용 안 됨
+
 [toc]
 
 github readme badge generator
